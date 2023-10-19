@@ -4,9 +4,9 @@
   
 - 👓  I am a **Full-stack developer**, I can work both on **Web and Mobile development with all Tech stack**.
  
-- 🌱 I have experience in **ReactJS, React Native, Flutter** in the front end using UI Component library: **TailwindCSS, Styled Component, Ant Design, MUI...**
+- 🌱 I have experience in **ReactJS, React Native, and Flutter** in the front end using UI Component library: **TailwindCSS, Styled Component, Ant Design, MUI...**
   
-- 👀 In the back-end, I am capable of creating **APIs** with **NodeJS framework, ExpressJS** 
+- 👀 In the back-end, I am capable of creating **APIs*a* with **NodeJS framework, ExpressJS** 
 
 - 📫 How to reach me **phamvanduong.work@gmail.com**.
 
