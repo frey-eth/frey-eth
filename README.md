@@ -1,10 +1,12 @@
-💻 **About Me**
-🚀 Senior Full Stack Developer with a strong focus on Web3 and Blockchain technologies.
-🌐 Proficient in developing decentralized applications (dApps), implementing smart contracts, and integrating blockchain networks to build secure and scalable solutions.
-🛠️ Experienced in Solidity, Ethereum, Polygon, IPFS, Hardhat, Truffle, and other blockchain frameworks, alongside expertise in Next.js, React.js, and modern front-end libraries like TailwindCSS, Ant Design, and Material-UI.
-🔧 Skilled in back-end development using Node.js, Express.js, and working with various databases to build robust APIs and microservices.
-🌱 Passionate about leveraging blockchain to create innovative solutions, enhancing transparency, and driving decentralization in the tech ecosystem.
-📫 Let's connect: phamvanduong.work@gmail.com
+# 💻 About Me
+
+🚀 **Full Stack Developer** with a strong focus on **Web3 and Blockchain** technologies.  
+🌐 Proficient in developing **decentralized applications (dApps)**, implementing **smart contracts**, and integrating blockchain networks to build secure and scalable solutions.  
+🛠️ Experienced in **Solidity, Ethereum, Solana, Sui, Aptos, Polygon, IPFS, Hardhat, Truffle, Layer2 Solution**, and other blockchain frameworks, alongside expertise in **Next.js, React.js**, and modern front-end libraries like **TailwindCSS, Ant Design, and Material-UI**.  
+🔧 Skilled in back-end development using **Go, Rust, Python,...** and working with various databases to build robust APIs and microservices.  
+🌱 Passionate about leveraging blockchain to create innovative solutions, enhancing transparency, and driving decentralization in the tech ecosystem.  
+📫 **Let's connect:** [phamvanduong.work@gmail.com](mailto:phamvanduong.work@gmail.com)  
+
 
 <div align="center">
   
