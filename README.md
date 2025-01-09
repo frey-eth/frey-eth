@@ -75,9 +75,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/frey-eth/frey-eth/output/snake.svg" alt="Snake animation" />
-
-###
