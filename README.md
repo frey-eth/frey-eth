@@ -1,79 +1,58 @@
-# 💻 About Me
+# Hi there, I'm Pham Van Duong (Frey) 👋
 
-🚀 **Full Stack Developer** with a strong focus on **Web3 and Blockchain** technologies.  
-🌐 Proficient in developing **decentralized applications (dApps)**, implementing **smart contracts**, and integrating blockchain networks to build secure and scalable solutions.  
-🛠️ Experienced in **Solidity, Ethereum, Solana, Sui, Aptos, Polygon, IPFS, Hardhat, Truffle, Layer2 Solution**, and other blockchain frameworks, alongside expertise in **Next.js, React.js**, and modern front-end libraries like **TailwindCSS, Ant Design, and Material-UI**.  
-🔧 Skilled in back-end development using **Go, Rust, Python,...** and working with various databases to build robust APIs and microservices.  
-🌱 Passionate about leveraging blockchain to create innovative solutions, enhancing transparency, and driving decentralization in the tech ecosystem.  
-📫 **Let's connect:** [phamvanduong.work@gmail.com](mailto:phamvanduong.work@gmail.com)  
+**Full Stack Developer | AI & LLM Engineer | Web3 & Microservices Builder**  
+📍 Ho Chi Minh City, Vietnam • 🎓 B.S. in Computer Science @ Ho Chi Minh University of Information Technology (UIT)
 
+[[https://img.shields.io/badge/Portfolio-frey.mdlabs.org-0F172A?style=for-the-badge&logo=vercel&logoColor=white]](https://frey.mdlabs.org/about)
+[[https://img.shields.io/badge/LinkedIn-freyeth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/freyeth/)
+[[https://img.shields.io/badge/GitHub-frey--eth-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/frey-eth)
+[[https://img.shields.io/badge/Email-phamvanduong.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white]](mailto:phamvanduong.work@gmail.com)
+
+Results-driven **Full Stack Developer** with **3+ years of experience** building scalable web applications, AI-powered products, and distributed backend systems. Experienced in taking end-to-end ownership of products from concept to production using **Next.js, React, NestJS, TypeScript, microservices, and LangChain**, while accelerating engineering velocity and code quality with AI workflows (**Cursor, Claude, and LLMs**).
+
+## Building Scalable Full-Stack, AI, and Web3 Products
+
+- **Current Focus:** Leading full-stack development at **GoAhead** on an AI-powered Website Builder platform (`Next.js`, `NestJS`) with visual drag-and-drop editing and AI-assisted generation workflows, alongside an LLM/RAG real estate recommendation system for the Singapore market.
+- **Architecture & Monorepo Engineering:** Consolidated 4 standalone applications into a unified **Turborepo** monorepo architecture with shared packages and UI libraries to streamline builds and deployments.
+- **High-Traffic Web3 & Real-Time Systems:** Delivered prediction and competition platforms (**BRKT**) and DeFi/NFT dApps (**ESOL LABS**) across EVM ecosystems (`ERC-20`, `ERC-721`, `ERC-1155`, `Aave`, `MakerDAO`).
+- **Proven Engineering Impact:** Boosted mobile conversion by **12%**, increased organic traffic by **15%**, reduced legacy technical debt by **25%**, cut bug rates by **30%** through rigorous code reviews, and lowered average production bug resolution time to **<24 hours**.
+
+## Core Tech Stack Spans Modern Frontend, Distributed Backends, AI Agents, and Web3
+
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Frontend Development** | TypeScript, JavaScript, React.js, Next.js, Tailwind CSS, Shadcn/UI, Ant Design, Material UI (MUI), Framer Motion, Redux Toolkit, Zustand, React Query, HTML5, CSS3/SASS/LESS, PWA, Vite, Webpack |
+| **Backend & Architecture** | Node.js, NestJS, Microservices, gRPC, RabbitMQ, REST APIs, PostgreSQL, MongoDB, Redis, Prisma ORM, TypeORM |
+| **AI & LLM Engineering** | LangChain, OpenAI API, AI Agents, RAG (Retrieval-Augmented Generation), Vector Databases, Prompt Engineering, AI Chatbots, Web Crawling, Data Processing, Cursor, Claude AI |
+| **Monorepo & DevOps** | Turborepo, Nx, Shared UI Libraries, Build Optimization, Docker, CI/CD Pipelines |
+| **Web3 & Blockchain** | Ethers.js, Wagmi, RainbowKit, Thirdweb, Web3Modal, Immutable SDK, IPFS, EVM Smart Contract Integration (ERC-20, ERC-721, ERC-1155, Aave, MakerDAO) |
+
+## Featured Production Projects Showcase AI Agents, Microservices, and Web3 dApps
+
+| Project | Tech Stack | Key Highlights & Architecture |
+| :--- | :--- | :--- |
+| **[AI Property Recommendation Chatbot](https://ai.mdlabs.org/)** | `Next.js` `NestJS` `TypeScript` `LangChain` `OpenAI` `PostgreSQL` `RAG` | Built an AI-powered property discovery platform for Singapore's real estate market. Engineered an automated multi-source property crawling pipeline, AI enrichment agents, and RAG + vector search workflows for conversational property recommendations. |
+| **[Yobae](https://yobae.vercel.app/)** | `NestJS` `Node.js` `TypeScript` `PostgreSQL` `Prisma` `Redis` `RabbitMQ` `gRPC` `Docker` | Architected backend microservices for a social and rental partner platform. Implemented a centralized NestJS API Gateway, REST & gRPC inter-service communication, RabbitMQ event-driven workflows (bookings, notifications), JWT auth, and Redis caching. |
+| **Full-Stack Web3 NFT Marketplace** | `Next.js` `Tailwind CSS` `Redux Toolkit` `React Query` `Ethers.js` `Wagmi` `Web3Modal` `Immutable SDK` `NestJS` `PostgreSQL` | Developed an end-to-end EVM NFT marketplace featuring multi-network wallet connection, IPFS metadata indexing, on-chain listing/purchasing/order cancellation, gas estimation UX, and synchronized off-chain PostgreSQL indexing. |
+
+## Professional Experience Demonstrates End-to-End Ownership Across Domains
+
+| Role & Company | Timeline & Location | Key Achievements |
+| :--- | :--- | :--- |
+| **Fullstack Developer** @ **GoAhead** | Jan 2026 – Present (Ho Chi Minh City) | Led full-stack AI Website Builder (`Next.js`, `NestJS`) with drag-and-drop editor; built LangChain real estate chatbot for Singapore market; migrated 4 apps into a unified Turborepo monorepo. |
+| **Software Engineer** @ **BRKT** | Jan 2025 – Dec 2025 (Remote) | Led real-time prediction & competition dashboards (`Next.js`, `React`); built end-to-end Web3 oracle & smart contract settlement integrations; improved mobile conversion by **12%**, organic traffic by **15%**, and platform reliability by **15%** while reducing tech debt by **25%**. |
+| **Software Engineer** @ **ESOL LABS** | Jan 2023 – Dec 2024 (Ho Chi Minh City) | Built high-performance Web3 frontends (`React.js`, `Next.js`, `Wagmi`, `Thirdweb`, `RainbowKit`); integrated DeFi lending protocols (`Aave`, `MakerDAO`) and EVM token standards; reduced bugs by **30%** and lifted user engagement by **15%**. |
+
+## GitHub Activity & Contribution Metrics
 
 <div align="center">
-  
- 
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDA3aTYya2dtazR3c3RwOTVhcGM0ZnRlZGc3c3ZiZGxlMGc5anVvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=frey-eth&show_icons=true&theme=tokyonight&hide_border=true" alt="Frey's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frey-eth&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
+## Connect & Collaborate
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/frey-eth/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=frey-eth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=frey-eth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center" style="border-collapse: collapse;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-</div>
-
-###
+- 🌐 **Portfolio & About:** [frey.mdlabs.org/about](https://frey.mdlabs.org/about)
+- 💼 **LinkedIn:** [linkedin.com/in/freyeth](https://www.linkedin.com/in/freyeth/)
+- 🐙 **GitHub:** [github.com/frey-eth](https://github.com/frey-eth)
+- ✉️ **Email:** [phamvanduong.work@gmail.com](mailto:phamvanduong.work@gmail.com)
