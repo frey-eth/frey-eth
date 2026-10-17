@@ -3,19 +3,7 @@
 **Full Stack Developer | AI & LLM Engineer | Web3 & Microservices Builder**  
 📍 Ho Chi Minh City, Vietnam • 🎓 B.S. in Computer Science @ Ho Chi Minh University of Information Technology (UIT)
 
-[[https://img.shields.io/badge/Portfolio-frey.mdlabs.org-0F172A?style=for-the-badge&logo=vercel&logoColor=white]](https://frey.mdlabs.org/about)
-[[https://img.shields.io/badge/LinkedIn-freyeth-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white]](https://www.linkedin.com/in/freyeth/)
-[[https://img.shields.io/badge/GitHub-frey--eth-181717?style=for-the-badge&logo=github&logoColor=white]](https://github.com/frey-eth)
-[[https://img.shields.io/badge/Email-phamvanduong.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white]](mailto:phamvanduong.work@gmail.com)
-
-Results-driven **Full Stack Developer** with **3+ years of experience** building scalable web applications, AI-powered products, and distributed backend systems. Experienced in taking end-to-end ownership of products from concept to production using **Next.js, React, NestJS, TypeScript, microservices, and LangChain**, while accelerating engineering velocity and code quality with AI workflows (**Cursor, Claude, and LLMs**).
-
-## Building Scalable Full-Stack, AI, and Web3 Products
-
-- **Current Focus:** Leading full-stack development at **GoAhead** on an AI-powered Website Builder platform (`Next.js`, `NestJS`) with visual drag-and-drop editing and AI-assisted generation workflows, alongside an LLM/RAG real estate recommendation system for the Singapore market.
-- **Architecture & Monorepo Engineering:** Consolidated 4 standalone applications into a unified **Turborepo** monorepo architecture with shared packages and UI libraries to streamline builds and deployments.
-- **High-Traffic Web3 & Real-Time Systems:** Delivered prediction and competition platforms (**BRKT**) and DeFi/NFT dApps (**ESOL LABS**) across EVM ecosystems (`ERC-20`, `ERC-721`, `ERC-1155`, `Aave`, `MakerDAO`).
-- **Proven Engineering Impact:** Boosted mobile conversion by **12%**, increased organic traffic by **15%**, reduced legacy technical debt by **25%**, cut bug rates by **30%** through rigorous code reviews, and lowered average production bug resolution time to **<24 hours**.
+Results-driven **Full Stack Developer** with **4+ years of experience** building scalable web applications, AI-powered products, and distributed backend systems. Experienced in taking end-to-end ownership of products from concept to production using **Next.js, React, NestJS, TypeScript, microservices, and LangChain**, while accelerating engineering velocity and code quality with AI workflows (**Cursor, Claude, and LLMs**).
 
 ## Core Tech Stack Spans Modern Frontend, Distributed Backends, AI Agents, and Web3
 
